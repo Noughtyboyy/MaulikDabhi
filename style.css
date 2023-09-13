@@ -23,6 +23,9 @@
 .menu{
     display: none;
 }
+.img{
+size: 100px;
+}
 
 .sub-item{
     margin: 10px;
