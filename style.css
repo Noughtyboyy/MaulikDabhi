@@ -20,9 +20,10 @@
     color: white;
 }
 
-/* .menu{
+.menu{
     display: none;
-} */
+    height: 100px;
+}
 
 .sub-item{
     margin: 10px;
