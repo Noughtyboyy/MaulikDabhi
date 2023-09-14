@@ -24,7 +24,8 @@
     display: none;
 }
 .img{
-size: 100px;
+height: 100px;
+    width:auto;
 }
 
 .sub-item{
